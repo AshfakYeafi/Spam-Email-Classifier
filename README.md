@@ -1,2 +1,2 @@
 # Spam-Email-Classifier
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot_20210728_042001.png)
